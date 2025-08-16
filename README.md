@@ -28,6 +28,7 @@ Survey Questions
 <img src="https://github.com/shawnbanasick/easy-htmlq/blob/master/readme_assets/eq-survey.png" width="500" />
 <p>
 
+
 ## Project Access 
 Starting with version 2.0.2 there are now four project access options. 
 * Open and anonymous - anyone with the url for the project can access it, no participant id information is collected
@@ -36,6 +37,8 @@ Starting with version 2.0.2 there are now four project access options.
 * Restricted and participant name input required - participants requred to enter the access code and their name before they can start the Q sort.
 
 ## Click [Here](Analysis.md) to View Information on the Analysis and Interpretation of Easy HtmlQ Data
+
+
 
 
 
